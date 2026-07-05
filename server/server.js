@@ -42,10 +42,16 @@ const __dirname = path.dirname(__filename);
 const app = express();
 const port = PORT || 5000;
 
+
 // ====== Middleware ======
 app.use(
   cors({
-    origin: "*",
+    origin: [
+      "http://localhost:5173",
+      "https://placify-beta.vercel.app",
+    ],
+    methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+    allowedHeaders: ["Content-Type", "Authorization"],
     credentials: true,
   })
 );
