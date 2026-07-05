@@ -86,7 +86,7 @@ ml_modules/**/venv/
 *.ckpt
 
 datasets/
-data/
+# data/
 checkpoints/
 
 # ======================================================
