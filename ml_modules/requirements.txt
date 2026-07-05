@@ -1,0 +1,12 @@
+opencv-python
+tensorflow
+fer
+librosa
+transformers
+scikit-learn
+speechrecognition
+rapidfuzz
+flake8
+black
+sentence-transformers
+textblob
