@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { useParams, useNavigate, useSearchParams } from "react-router-dom";
-import challenges from "../../data/challenges";
+import challenges from "../../data/challenges.js";
 import Editor from "@monaco-editor/react";
 import { Play, RefreshCw, Eye, EyeOff, ArrowLeft } from "lucide-react";
 
