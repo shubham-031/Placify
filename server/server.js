@@ -48,8 +48,8 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://placify-beta.vercel.app",
-      "https://placify-git-shubham1-shubhams-projects-a1a81d1d.vercel.app",
+      "https://placify-one-self.vercel.app",
+      
       "https://placify-9hpttmrxr-shubhams-projects-a1a81d1d.vercel.app",
     ],
     methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
@@ -58,7 +58,7 @@ app.use(
   })
 );
 
-
+app.options("*", cors());
 app.use(express.json());
 app.use("/uploads", express.static(path.join(__dirname, "uploads")));
 
