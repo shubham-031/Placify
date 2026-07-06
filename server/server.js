@@ -58,7 +58,7 @@ app.use(
   })
 );
 
-app.options("*", cors());
+// app.options("*", cors());
 app.use((req, res, next) => {
   console.log(req.method, req.url);
   next();
