@@ -30,7 +30,6 @@ Welcome to the official repository for **Placify**, a project by **Innovision Te
 
 ---
 
-![GSSoC Logo](https://github.com/dimpal-yadav/Foodie/blob/main/images/GSSoC.png)
 
 🌟 **Exciting News...**
 
