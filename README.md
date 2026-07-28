@@ -255,7 +255,7 @@ git remote add upstream https://github.com/MonishRaman/Placify-Smarter_Placement
 git fetch upstream
 git checkout main
 git merge upstream/main
-git push origin main
+git push origin main 
 ```
 
 ---
@@ -269,29 +269,10 @@ git push origin main
 - **Phase 3 (2026):** Partner with HR & universities
 - **Phase 4 (2027):** PAN-India scale with multi-language support
 
-### 🎯 Vision 2027
 
-- Impact 1M+ students
-- Become India’s leading smart recruitment platform
 
 ---
 
-## 🏆 Achievements
-
-🏅 **Best Startup Pitch** awarded to **Monish R** at **Founders Networking Summit 2025**, hosted by iLearnings & DSATM, Bangalore.
-
----
-
-## 🧑‍💻 Our Team
-
-Built with ❤️ by:
-
-- **Monish R** – Founder
-- **Prashanth A N** – Co-Founder
-
-_Final Year, DSATM Bangalore_
-
----
 
 ## 📄 License
 
@@ -301,10 +282,9 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for m
 
 ## 📞 Contact
 
-- 📧 **Monish R:** [monishr608@gmail.com](mailto:monishr608@gmail.com)
-- 📧 **Prashanth A N:** [prashanth3792@gmail.com](mailto:prashanth3792@gmail.com)
-- 🌐 **Portfolio:** [monishraman.netlify.app](http://www.monishraman.netlify.app)
-- 📱 **Phone:** +91 82968 63444
+- 📧 **Monish R:** [jadhavshubhm@gmail.com](mailto:jadhavshubhm@gmail.com)
+
+- 📱 **Phone:** +91 8999207098
 
 ---
 
